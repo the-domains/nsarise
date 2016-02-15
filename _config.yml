@@ -1,0 +1,28 @@
+name: NSARISE
+favicon: null
+layout_spectrum: 0.3846425216179341
+typography_spectrum: 0.5545749471057206
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6813404911663383
+  lightness: 0.19729590462520719
+  saturation: 0.10357168526388705
+  rhythmicContrast: 0.4325009791646153
+purpose: []
