@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[NSARISE]]></title>
-        <description><![CDATA[NSARISE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[DESIGN YOUR FUTURE]]></title>
+        <description><![CDATA[DESIGN YOUR FUTURE]]></description>
+        <link>https://thegrid.ai/nsarise/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 17:56:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 18:15:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nsarise/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>NSARISE</p>]]></description>
-            <link>undefinedd55da26d-d12e-448e-a4b8-b90f4c90ea17/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb7f1530-d89e-4228-9726-3815b0f4db48.jpg">]]></description>
+            <link>https://thegrid.ai/nsarise/d55da26d-d12e-448e-a4b8-b90f4c90ea17/index.html</link>
             <guid isPermaLink="false">d55da26d-d12e-448e-a4b8-b90f4c90ea17</guid>
-            <pubDate>Mon, 15 Feb 2016 17:56:02 GMT</pubDate>
+            <pubDate>Mon, 15 Feb 2016 18:15:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
